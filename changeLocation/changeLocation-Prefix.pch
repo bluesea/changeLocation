@@ -1,0 +1,7 @@
+//
+// Prefix header for all source files of the 'changeLocation' target in the 'changeLocation' project
+//
+
+#ifdef __OBJC__
+    #import <Foundation/Foundation.h>
+#endif
